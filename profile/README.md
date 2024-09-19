@@ -1,13 +1,11 @@
 [![layeredy](https://cdn.layeredy.com/wordmark-background-waves-rounded.png)](https://layeredy.com)
 
-# Welcome to our Github account!
+# We're Layeredy
 
-At Layeredy, we're all about creating and maintaining a variety of projects that put security, performance, and user privacy first. This account is home to all our open-source work. Whether you're looking to contribute or just curious about what we do, there's plenty here to dive into. [Explore Our Projects](https://layeredy.com/portfolio/)
+We're a independent company dedicated to developing software for small businesses with privacy, usability, and a budget in mind.
 
-Each one of our software is built to meet high standards of quality and efficiency. We're always open to contributions from developers worldwide, and we're committed to building a community where collaboration creates amazing results. [Learn More About Us
-](https://layeredy.com/history/)
 
-For more details about what we do and the values that guide us, visit [our website](https://layeredy.com/). You'll find info on our services, the tech we use, and the partners we work with. We believe in being transparent and giving our users clear and easy-to-find information.
+For more details about what we do, visit [our website](https://layeredy.com/). You'll find info on our services,
 
 
 > [!TIP]
