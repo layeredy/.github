@@ -1,4 +1,4 @@
-[![layeredy](https://r2.layeredy.com/wordmark.png)](https://layeredy.com)
+[![layeredy](https://cdn.layeredy.com/wordmark-background-waves-rounded.png)](https://layeredy.com)
 
 # Welcome to our Github account!
 
