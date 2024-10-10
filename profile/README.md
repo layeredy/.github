@@ -2,7 +2,7 @@
 
 # We're Layeredy
 
-We're a independent company dedicated to developing software for small businesses with privacy, usability, and a budget in mind.
+We're an independent software company dedicated to developing solutions for small businesses and communities with privacy, usability, and a budget in mind
 
 
 For more details about what we do, visit [our website](https://layeredy.com/). You'll find info on our services,
