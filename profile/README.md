@@ -1,4 +1,4 @@
-[![layeredy](https://cdn.layeredy.com/wordmark-background-waves-rounded.png)](https://layeredy.com)
+[![layeredy](https://github.com/user-attachments/assets/50c9302c-4bcc-470f-8770-4b2d61b996af)](https://layeredy.com)
 
 # We're Layeredy
 
