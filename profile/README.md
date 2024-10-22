@@ -1,4 +1,4 @@
-[![layeredy](https://github.com/user-attachments/assets/50c9302c-4bcc-470f-8770-4b2d61b996af)](https://layeredy.com)
+[![layeredy](https://github.com/user-attachments/assets/385d14ab-d5de-4ea0-b2a8-847f6c9e40ae)](https://layeredy.com)
 
 # We're Layeredy
 
