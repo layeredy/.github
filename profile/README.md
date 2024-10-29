@@ -3,7 +3,8 @@
 # We're Layeredy
 
 We're an independent software company dedicated to developing solutions for small businesses and communities with privacy, usability, and a budget in mind
-
+> [!NOTE]  
+> We sync servers with GitHub every Wednesday, excluding holiday weeks. Some changes may wait until the next sync, while others deploy immediately.
 
 For more details about what we do, visit [our website](https://layeredy.com/). You'll find info on our services,
 
