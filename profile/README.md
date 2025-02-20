@@ -1,6 +1,7 @@
-[![layeredy](https://github.com/user-attachments/assets/e4c64311-b7cd-4899-874d-a50196edcd74)](https://layeredy.com)
+[![layeredy](https://github.com/user-attachments/assets/9f91abc0-808c-464a-b01e-f5e1462d11ac)](https://layeredy.com)
 
-# We're Layeredy
+# We're Layeredy!
+
 
 We're an independent software company dedicated to developing solutions for small businesses and communities with privacy, usability, and a budget in mind
 > [!NOTE]  
